@@ -29,3 +29,4 @@
     --sd [path to data dir]/SupplementaryAnnotation/GRCh38 \
     -l [path to credential file] --versions-config [path to resource directory]/all_annotations_GRCh38.json
     -i <input_VCF> -o <output_prefix>
+
