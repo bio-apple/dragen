@@ -22,6 +22,7 @@
     --variant-annotation-data /path/to/your/NirvanaData \
     --variant-annotation-assembly GRCh38 \
     --annotation-data-config /path/to/resources/annotation/all_annotations_GRCh38.json
+
 **VCF-in:**
 
     <INSTALL_PATH>/share/nirvana/Nirvana -c [path to data dir]/Cache \
