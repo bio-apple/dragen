@@ -27,6 +27,7 @@
     <INSTALL_PATH>/share/nirvana/Nirvana -c [path to data dir]/Cache \
     -r [path to data dir]/References/Homo_sapiens.GRCh38.Nirvana.dat \
     --sd [path to data dir]/SupplementaryAnnotation/GRCh38 \
-    -l [path to credential file] --versions-config [path to resource directory]/all_annotations_GRCh38.json
+    -l [path to credential file] \
+    --versions-config [path to resource directory]/all_annotations_GRCh38.json
     -i <input_VCF> -o <output_prefix>
 
